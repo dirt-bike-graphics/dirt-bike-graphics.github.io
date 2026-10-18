@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* The page header already shows the title and tagline */
+.main-content > h1:first-child,
+.main-content > h1:first-child + p { display: none; }
