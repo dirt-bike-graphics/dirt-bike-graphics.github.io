@@ -30,6 +30,7 @@ The data is free to use in your own tools, spreadsheets or posts. If you find a 
 
 Dirt Bike Number Plate Graphics is a browser extension: type your race number, pick the plate and number colors and a font, and see the plate before you order it.
 
+- [Chrome Web Store](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf)
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/)
 - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
