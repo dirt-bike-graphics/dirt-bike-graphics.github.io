@@ -1,0 +1,335 @@
+{
+  "description": "Which model years and sister models share the same plastics, so one graphics kit layout fits them all. One entry per reference bike.",
+  "updated": "2026-10-18",
+  "source": "https://customdirtbikegraphics.com",
+  "bikes": [
+    {
+      "id": "honda-crf450r-2025",
+      "brand": "Honda",
+      "model": "CRF450R",
+      "reference_year": "2025",
+      "category": "MX",
+      "fits": [
+        "2025 CRF450R",
+        "2026 CRF450R",
+        "2025 CRF250R",
+        "2026 CRF250R"
+      ]
+    },
+    {
+      "id": "yamaha-yz450f-2023",
+      "brand": "Yamaha",
+      "model": "YZ450F",
+      "reference_year": "2023",
+      "category": "MX",
+      "fits": [
+        "2023 YZ450F",
+        "2024 YZ450F",
+        "2025 YZ450F",
+        "2024 YZ450FX",
+        "2025 YZ450FX",
+        "2026 YZ450FX",
+        "2024 YZ250F",
+        "2025 YZ250F",
+        "2026 YZ250F",
+        "2025 YZ250FX",
+        "2026 YZ250FX"
+      ]
+    },
+    {
+      "id": "ktm-450sxf-2025",
+      "brand": "KTM",
+      "model": "450 SX-F",
+      "reference_year": "2025",
+      "category": "MX",
+      "fits": [
+        "2025 SXF450",
+        "2026 SXF450",
+        "2025 SXF350",
+        "2026 SXF350",
+        "2025 SXF250",
+        "2026 SXF250",
+        "2025 SX125",
+        "2026 SX125",
+        "2025 SX250",
+        "2026 SX250",
+        "2025 SX300",
+        "2026 SX300"
+      ]
+    },
+    {
+      "id": "kawasaki-kx450-2024",
+      "brand": "Kawasaki",
+      "model": "KX450",
+      "reference_year": "2024",
+      "category": "MX",
+      "fits": [
+        "2024 KXF450",
+        "2025 KXF450",
+        "2026 KXF450",
+        "2025 KXF250",
+        "2026 KXF250"
+      ]
+    },
+    {
+      "id": "yamaha-wr450f-2024",
+      "brand": "Yamaha",
+      "model": "WR450F",
+      "reference_year": "2024",
+      "category": "Enduro",
+      "fits": [
+        "2023 WR250F",
+        "2023 WR450F",
+        "2024 WR250F",
+        "2024 WR450F",
+        "2025 WR250F",
+        "2025 WR450F",
+        "2026 WR250F",
+        "2026 WR450F"
+      ]
+    },
+    {
+      "id": "ktm-450excf-2025",
+      "brand": "KTM",
+      "model": "450 EXC-F",
+      "reference_year": "2025",
+      "category": "Enduro",
+      "fits": [
+        "2025 XCW125",
+        "2025 EXC150",
+        "2025 EXC250",
+        "2025 EXC300",
+        "2025 EXCF250",
+        "2025 EXCF350",
+        "2025 EXCF450",
+        "2025 EXCF500",
+        "2026 XCW125",
+        "2026 XCW250",
+        "2026 EXC300",
+        "2026 EXCF250",
+        "2026 EXCF350",
+        "2026 EXCF450",
+        "2026 EXCF500",
+        "2027 XCW125",
+        "2027 XCW150",
+        "2027 XCW250",
+        "2027 XCW300",
+        "2027 EXC300",
+        "2027 EXCF250",
+        "2027 EXCF350",
+        "2027 EXCF450",
+        "2027 EXCF500"
+      ]
+    },
+    {
+      "id": "husqvarna-fc450-2025",
+      "brand": "Husqvarna",
+      "model": "FC 450",
+      "reference_year": "2025",
+      "category": "MX",
+      "fits": [
+        "2025 FC450",
+        "2026 FC450",
+        "2025 FC350",
+        "2026 FC350",
+        "2025 FC250",
+        "2026 FC250",
+        "2025 TC125",
+        "2026 TC125",
+        "2025 TC150",
+        "2026 TC150",
+        "2025 TC250",
+        "2026 TC250",
+        "2025 TC300",
+        "2026 TC300",
+        "2025 FX350",
+        "2026 FX350",
+        "2025 TX300",
+        "2026 TX300"
+      ]
+    },
+    {
+      "id": "husqvarna-fe450-2025",
+      "brand": "Husqvarna",
+      "model": "FE 450",
+      "reference_year": "2025",
+      "category": "Enduro",
+      "fits": [
+        "2025 TE250 Heritage",
+        "2025 TE300 Heritage",
+        "2025 FE250 Heritage",
+        "2025 FE350 Heritage",
+        "2025 FE450 Heritage",
+        "2025 FE501 Heritage",
+        "2026 TE125",
+        "2026 TE150",
+        "2026 TE250",
+        "2026 TE300",
+        "2026 FE250",
+        "2026 FE350",
+        "2026 FE450",
+        "2026 FE501",
+        "2027 TE125",
+        "2027 TE150",
+        "2027 TE250",
+        "2027 TE300",
+        "2027 FE250",
+        "2027 FE350",
+        "2027 FE450",
+        "2027 FE501"
+      ]
+    },
+    {
+      "id": "gasgas-mc450f-2024",
+      "brand": "GasGas",
+      "model": "MC 450F",
+      "reference_year": "2024",
+      "category": "MX",
+      "fits": [
+        "2024 MC450F",
+        "2025 MC450F",
+        "2026 MC450F",
+        "2024 MC250F",
+        "2025 MC250F",
+        "2026 MC250F",
+        "2024 MC125",
+        "2025 MC125",
+        "2026 MC125",
+        "2024 MC250",
+        "2025 MC250",
+        "2026 MC250",
+        "2024 EX300",
+        "2025 EX300",
+        "2026 EX300"
+      ]
+    },
+    {
+      "id": "gasgas-ec450f-2024",
+      "brand": "GasGas",
+      "model": "EC 450F",
+      "reference_year": "2024",
+      "category": "Enduro",
+      "fits": [
+        "2024 EC250",
+        "2024 EC300",
+        "2024 EC250F",
+        "2024 EC350F",
+        "2024 EC450F",
+        "2024 EC500F",
+        "2025 EC125",
+        "2025 EC250",
+        "2025 EC300",
+        "2025 EC250F",
+        "2025 EC350F",
+        "2025 EC450F",
+        "2025 EC500F",
+        "2026 EC300",
+        "2026 EC350F",
+        "2026 EC500F"
+      ]
+    },
+    {
+      "id": "suzuki-rmz450-2019",
+      "brand": "Suzuki",
+      "model": "RM-Z450",
+      "reference_year": "2019",
+      "category": "MX",
+      "fits": [
+        "2018 RMZ450",
+        "2019 RMZ450",
+        "2020 RMZ450",
+        "2021 RMZ450",
+        "2022 RMZ450",
+        "2023 RMZ450",
+        "2024 RMZ450",
+        "2025 RMZ450",
+        "2026 RMZ450",
+        "2019 RMZ250",
+        "2020 RMZ250",
+        "2021 RMZ250",
+        "2022 RMZ250",
+        "2023 RMZ250",
+        "2024 RMZ250",
+        "2025 RMZ250",
+        "2026 RMZ250"
+      ]
+    },
+    {
+      "id": "beta-rx450-2024",
+      "brand": "Beta",
+      "model": "450 RX",
+      "reference_year": "2024",
+      "category": "MX",
+      "fits": [
+        "2023 RX450 4T",
+        "2024 RX450 4T",
+        "2025 RX450 4T",
+        "2026 RX450 4T",
+        "2025 RX250 2T",
+        "2026 RX250 2T",
+        "2025 RX350 2T",
+        "2026 RX350 2T"
+      ]
+    },
+    {
+      "id": "triumph-tf450-2024",
+      "brand": "Triumph",
+      "model": "TF 450-RC / TF 450-X",
+      "reference_year": "2024",
+      "category": "Enduro",
+      "fits": [
+        "2024 TF450-X",
+        "2025 TF450-X",
+        "2026 TF450-X",
+        "2025 TF250-X",
+        "2026 TF250-X"
+      ]
+    },
+    {
+      "id": "triumph-tf450e-2024",
+      "brand": "Triumph",
+      "model": "TF 450-E",
+      "reference_year": "2024",
+      "category": "Enduro",
+      "fits": [
+        "2025 TF250-E",
+        "2025 TF450-E",
+        "2026 TF250-E",
+        "2026 TF450-E"
+      ]
+    },
+    {
+      "id": "ducati-desmo450mx-2025",
+      "brand": "Ducati",
+      "model": "Desmo 450 MX",
+      "reference_year": "2025",
+      "category": "MX",
+      "fits": [
+        "2025 DESMO450MX",
+        "2026 DESMO450MX",
+        "2026 DESMO250MX"
+      ]
+    },
+    {
+      "id": "stark-vargmx",
+      "brand": "Stark",
+      "model": "Varg MX",
+      "reference_year": null,
+      "category": "Electric",
+      "fits": [
+        "1.0 VARG MX",
+        "1.5 VARG MX"
+      ]
+    },
+    {
+      "id": "stark-vargex",
+      "brand": "Stark",
+      "model": "Varg EX",
+      "reference_year": null,
+      "category": "Electric",
+      "fits": [
+        "1.0 VARG EX"
+      ]
+    }
+  ]
+}
