@@ -29,12 +29,12 @@ Libre d'utilisation. Tu as trouvé une erreur ou une compatibilité manquante ? 
 
 ## Liens utiles
 
-- Source des données : [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), un outil dans le navigateur pour créer des kits déco sur un modèle 3D de moto
-- Extension d'aperçu de plaque numéro : [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
+- Source des données : [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), un générateur IA de kits déco moto cross : décris le design que tu veux, obtiens un kit complet pour ta moto et modifie-le en ligne
+- Extension d'aperçu de plaque numéro : <img src="assets/browsers/chrome.svg" width="16" height="16" alt=""> [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | <img src="assets/browsers/firefox.svg" width="16" height="16" alt=""> [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | <img src="assets/browsers/edge.svg" width="16" height="16" alt=""> [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
-<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="2D kit layout and 3D preview">
+<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="AI generated dirt bike graphics kit, edited online">
 
-<sub>La mise à plat du kit déco et l'aperçu 3D dans Custom Dirt Bike Graphics, d'où viennent ces données de compatibilité.</sub>
+<sub>Tu décris, l'IA génère le kit, puis tu le modifies en ligne. Custom Dirt Bike Graphics, la source de ces données de compatibilité.</sub>
 
 ## Ailleurs
 

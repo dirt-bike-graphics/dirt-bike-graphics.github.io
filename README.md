@@ -29,12 +29,12 @@ Free to use. Found a mistake or a missing fitment? Open an issue with the model,
 
 ## Related
 
-- Data source: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), a browser tool for designing graphics kits on a 3D bike model
-- Number plate preview extension: [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
+- Data source: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), an AI dirt bike graphics generator: describe the design you want, get a full kit for your bike, and edit it online
+- Number plate preview extension: <img src="assets/browsers/chrome.svg" width="16" height="16" alt=""> [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | <img src="assets/browsers/firefox.svg" width="16" height="16" alt=""> [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | <img src="assets/browsers/edge.svg" width="16" height="16" alt=""> [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
-<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="2D kit layout and 3D preview">
+<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="AI generated dirt bike graphics kit, edited online">
 
-<sub>The 2D kit layout and 3D preview in Custom Dirt Bike Graphics, where this fitment data comes from.</sub>
+<sub>Describe it, AI generates the kit, then edit it online. Custom Dirt Bike Graphics, the source of this fitment data.</sub>
 
 ## Elsewhere
 

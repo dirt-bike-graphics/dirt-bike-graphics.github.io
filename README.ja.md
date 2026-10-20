@@ -29,12 +29,12 @@ Hondaの行: 2025年式CRF450R用のキットは、2025年から2026年のCRF450
 
 ## 関連
 
-- データ元: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com)。3Dバイクモデル上でデカールキットをデザインできるブラウザツールです
-- ゼッケンプレートのプレビュー拡張機能: [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
+- データ元: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com)。AIでモトクロスデカールを作るジェネレーターです。欲しいデザインを伝えると、AIが車種に合ったデカール一式を生成し、そのままオンラインで編集できます
+- ゼッケンプレートのプレビュー拡張機能: <img src="assets/browsers/chrome.svg" width="16" height="16" alt=""> [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | <img src="assets/browsers/firefox.svg" width="16" height="16" alt=""> [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | <img src="assets/browsers/edge.svg" width="16" height="16" alt=""> [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
-<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="2D kit layout and 3D preview">
+<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="AI generated dirt bike graphics kit, edited online">
 
-<sub>Custom Dirt Bike Graphics のデカール展開図（2D）と 3D プレビュー。この適合データの出典です。</sub>
+<sub>伝えるだけでAIがデカール一式を生成し、オンラインで編集できます。この適合データの出典 Custom Dirt Bike Graphics。</sub>
 
 ## その他の場所
 

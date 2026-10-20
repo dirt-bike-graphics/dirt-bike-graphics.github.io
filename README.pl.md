@@ -29,12 +29,12 @@ Możesz korzystać za darmo. Znalazłeś błąd albo brakujące dopasowanie? Otw
 
 ## Powiązane
 
-- Źródło danych: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), narzędzie w przeglądarce do projektowania naklejek na model 3D motocykla
-- Rozszerzenie do podglądu tablicy startowej: [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
+- Źródło danych: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), generator AI naklejek na crossa: opisz projekt, jaki chcesz, dostań komplet na swój motocykl i edytuj go online
+- Rozszerzenie do podglądu tablicy startowej: <img src="assets/browsers/chrome.svg" width="16" height="16" alt=""> [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | <img src="assets/browsers/firefox.svg" width="16" height="16" alt=""> [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | <img src="assets/browsers/edge.svg" width="16" height="16" alt=""> [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
-<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="2D kit layout and 3D preview">
+<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="AI generated dirt bike graphics kit, edited online">
 
-<sub>Rozkład 2D zestawu naklejek i podgląd 3D w Custom Dirt Bike Graphics, skąd pochodzą te dane o dopasowaniu.</sub>
+<sub>Opisujesz, AI generuje zestaw, potem edytujesz go online. Custom Dirt Bike Graphics, źródło tych danych o dopasowaniu.</sub>
 
 ## Gdzie indziej
 
