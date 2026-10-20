@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # Grafiche motocross: compatibilità per moto
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 Quali moto da cross condividono le stesse plastiche, e quindi possono montare lo stesso kit grafiche. 17 moto di riferimento di 11 marchi: motocross, enduro ed elettriche.
 

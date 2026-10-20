@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # Motocross Dekor: Passform nach Bike
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 Welche Dirt Bikes dieselben Plastikteile haben und deshalb dasselbe Dekor-Kit fahren können. 17 Referenz-Bikes von 11 Marken: Motocross, Enduro und Elektro.
 

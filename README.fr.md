@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # Kit déco moto cross : compatibilité par moto
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 Quelles motos tout-terrain partagent les mêmes plastiques, et peuvent donc recevoir le même kit déco. 17 motos de référence de 11 marques : motocross, enduro et électrique.
 

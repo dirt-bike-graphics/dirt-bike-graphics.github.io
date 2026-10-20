@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # Naklejki na crossa: dopasowanie do motocykla
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 Które motocykle terenowe mają te same plastiki i dlatego pasuje na nie ten sam zestaw naklejek. 17 motocykli referencyjnych od 11 marek: motocross, enduro i elektryki.
 

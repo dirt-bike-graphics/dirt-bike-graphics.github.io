@@ -4,8 +4,6 @@
 @import "{{ site.theme }}";
 
 /* The page header already shows the title and tagline.
-   The README now opens with the language line, so the title is the second child. */
+   The README opens with the title, the language line, then the tagline. */
 .main-content > h1:first-child,
-.main-content > h1:first-child + p,
-.main-content > p:first-child + h1,
-.main-content > p:first-child + h1 + p { display: none; }
+.main-content > h1:first-child + p + p { display: none; }

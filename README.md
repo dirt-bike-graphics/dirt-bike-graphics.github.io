@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # Dirt Bike Graphics Fitment
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 Which dirt bikes share the same plastics, and so can run the same graphics kit. 17 reference bikes from 11 brands: motocross, enduro and electric.
 

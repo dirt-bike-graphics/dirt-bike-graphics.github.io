@@ -1,6 +1,6 @@
-[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
-
 # モトクロスデカール: 車種別の適合表
+
+[English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
 同じ外装プラスチックを共有し、同じデカールキットを貼れるオフロードバイクの一覧です。11ブランド、17台の基準車種を収録しています。対象はモトクロス、エンデューロ、電動モデルです。
 
