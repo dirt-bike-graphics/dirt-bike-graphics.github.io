@@ -32,6 +32,10 @@ Frei nutzbar. Fehler oder fehlende Passform gefunden? Eröffne ein Issue mit Mod
 - Datenquelle: [Custom Dirt Bike Graphics](https://customdirtbikegraphics.com), ein Browser-Tool zum Gestalten von Dekor-Kits auf einem 3D-Bike-Modell
 - Erweiterung für die Vorschau der Startnummerntafel: [Chrome](https://chromewebstore.google.com/detail/custom-dirt-bike-graphics/dbcfplcaolkdnoomliohiaihbjhjfapf) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dirt-bike-number-plate-preview/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/dirt-bike-number-plate-pr/bpaecpfcclleabbgfnkljclppkpmebkk)
 
+<img src="assets/kit-layout-and-3d-preview.webp" width="640" alt="2D kit layout and 3D preview">
+
+<sub>2D-Layout des Dekor-Kits und 3D-Vorschau in Custom Dirt Bike Graphics, aus dem diese Passformdaten stammen.</sub>
+
 ## Anderswo
 
 **Einträge:** [There's An AI For That](https://theresanaiforthat.com/ai/custom-dirt-bike-graphics/) | [SaaSHub](https://www.saashub.com/custom-dirt-bike-graphics) | [Trustpilot](https://www.trustpilot.com/review/customdirtbikegraphics.com) | [Product Hunt](https://www.producthunt.com/products/custom-dirt-bike-graphics-ai) | [Toolify](https://www.toolify.ai/tool/custom-dirt-bike-graphics-ai) | [Hugging Face](https://huggingface.co/customdirtbikegraphics) | [Dang.ai](https://dang.ai/tool/custom-dirt-bike-graphics-ai-ai-dirt-bike-graphics-generator) | [VibeCafe](https://vibecafe.ai/products/cmv6bywru000006qg9hy27s2f) | [Pinterest](https://www.pinterest.com/customdirtbikegraphics/) | [Hashnode](https://hashnode.com/@custombikegraphics) | [SideProjectors](https://www.sideprojectors.com/user/profile/279916/projects) | [Experiment](https://experiment.com/users/cdirtbikegraphics) | [Linktree](https://linktr.ee/customdirtbikegraphics)
