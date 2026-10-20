@@ -2,7 +2,7 @@
 
 [English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
-Które motocykle terenowe mają te same plastiki i dlatego pasuje na nie ten sam zestaw naklejek. 17 motocykli referencyjnych od 11 marek: motocross, enduro i elektryki.
+Które motocykle terenowe mają te same plastiki i dlatego pasuje na nie ten sam zestaw naklejek. Dopasowanie dla 175 roczników (76 modeli, 11 marek), pogrupowanych pod 17 motocyklami referencyjnymi: motocross, enduro i elektryki.
 
 | | | | |
 |:---:|:---:|:---:|:---:|

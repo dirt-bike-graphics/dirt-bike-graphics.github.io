@@ -2,7 +2,7 @@
 
 [English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
-Which dirt bikes share the same plastics, and so can run the same graphics kit. 17 reference bikes from 11 brands: motocross, enduro and electric.
+Which dirt bikes share the same plastics, and so can run the same graphics kit. Fitment for 175 model years (76 models, 11 brands), grouped under 17 reference bikes: motocross, enduro and electric.
 
 | | | | |
 |:---:|:---:|:---:|:---:|

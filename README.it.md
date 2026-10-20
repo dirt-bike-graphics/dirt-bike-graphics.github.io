@@ -2,7 +2,7 @@
 
 [English](README.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Polski](README.pl.md) | [日本語](README.ja.md)
 
-Quali moto da cross condividono le stesse plastiche, e quindi possono montare lo stesso kit grafiche. 17 moto di riferimento di 11 marchi: motocross, enduro ed elettriche.
+Quali moto da cross condividono le stesse plastiche, e quindi possono montare lo stesso kit grafiche. Compatibilità per 175 anni modello (76 modelli, 11 marchi), raggruppati sotto 17 moto di riferimento: motocross, enduro ed elettriche.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
