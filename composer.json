@@ -1,0 +1,39 @@
+{
+  "name": "custom-graphics/dirt-bike-graphics-fitment",
+  "description": "Dirt bike plastic swap and graphics kit fitment dataset across 175 model years, 76 models and 11 brands.",
+  "type": "library",
+  "keywords": [
+    "dirt-bike",
+    "motocross",
+    "enduro",
+    "graphics-kit",
+    "decals",
+    "fitment",
+    "plastics",
+    "honda",
+    "yamaha",
+    "ktm"
+  ],
+  "homepage": "https://customdirtbikegraphics.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Custom Dirt Bike Graphics",
+      "homepage": "https://customdirtbikegraphics.com/design?utm_source=packagist&utm_medium=referral&utm_campaign=packagist",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io/issues",
+    "source": "https://github.com/dirt-bike-graphics/dirt-bike-graphics.github.io"
+  },
+  "require": {
+    "php": ">=8.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "CustomGraphics\\DirtBikeFitment\\": "src/"
+    }
+  }
+}
